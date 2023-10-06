@@ -18,7 +18,7 @@ Press the 'q' key to exit the program.
 ## Project Structure
 `Images/`: Directory containing images for training.
 
-`attendance_system.py`: Main script for the face recognition attendance system.
+`Main.py`: Main script for the face recognition attendance system.
 
 `Book2.csv`: CSV file for storing attendance records.
 
