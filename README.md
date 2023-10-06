@@ -9,7 +9,7 @@ This project demonstrates a simple face recognition attendance system that utili
 ## Usage
 Prepare a directory named Images containing images of individuals for training.
 
-Run the `attendance_system.py` script:
+Run the `attendance_system.py` script
 
 The script will open your webcam feed and start recognizing faces in real-time.
 
@@ -21,7 +21,5 @@ Press the 'q' key to exit the program.
 `attendance_system.py`: Main script for the face recognition attendance system.
 
 `Book2.csv`: CSV file for storing attendance records.
-
-`requirements.txt`: List of required Python packages.
 
 **Disclaimer:** This project is developed for educational purposes and might require further optimizations for use in production environments.
